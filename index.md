@@ -6,7 +6,7 @@ title: USC AI Futures Symposium on Artificial Intelligence and Data Science
 
 ## Symposium Date: May 3rd-5th, 2021
 
-<img src="images/AI-DS-Symposium-Flier.pdf" alt="AI-DS-Symposium-Flier" width="300" />
+<img src="images/AI-DS-Symposium-Flier.pdf" alt="AI-DS-Symposium-Flier" width="1000" />
 
 
 PaleoHack aims to bring the power of emerging data standards to all paleoclimatologists. PaleoHack builds on the work of the [LinkedEarth](http://linked.earth) project, funded by the US National Science Foundation [EarthCube](http://earthcube.org) program (ICER-1541029). In particular, it makes use of the [Linked Paleo Data standard](https://lipd.net) and the [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).  
