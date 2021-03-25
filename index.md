@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: USC AI Futures Symposium on Artificial Intelligence and Data Science
+---
+---
 
-You can use the [editor on GitHub](https://github.com/isi-usc-edu/USC-AI-DS-Symposium/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Symposium Date: May 3rd-5th, 2021
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="images/AI-DS-Symposium-Flier.pdf" alt="AI-DS-Symposium-Flier" width="300" />
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PaleoHack aims to bring the power of emerging data standards to all paleoclimatologists. PaleoHack builds on the work of the [LinkedEarth](http://linked.earth) project, funded by the US National Science Foundation [EarthCube](http://earthcube.org) program (ICER-1541029). In particular, it makes use of the [Linked Paleo Data standard](https://lipd.net) and the [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).  
 
-```markdown
-Syntax highlighted code block
+This hackathon (the first of many) is supported by NSF grant AGS 2002556 from the [P2C2 program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5750) will focus on **Python tools for the analysis of paleoclimate data**, chiefly the  [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).
+As such, it assumes a level of _basic_ familiarity with the scientific Python ecosystem, including:
+* the "stack": NumPy, SciPy and Matplotlib
+* Jupyter Notebooks
 
-# Header 1
-## Header 2
-### Header 3
+We stress that only basic familiarity is required, the kind that can be gained after a few tutorials. The hackathon will feature a mix of introductory lectures, Jupyter-based practicums, live Slack conversations, and finish with student presentations recounting what they have learned. Practicums will be conducted in the cloud, alleviating software requirements (see FAQ for details).
 
-- Bulleted
-- List
+ By the end of the hackathon, participants will be able to:
+* Understand the basics of paleo data structures
+* Manipulate these structures
+* Understand age model ensembles
+* Process paleo timeseries (e.g., binning, interpolation, detrending)
+* Apply spectral and wavelet analysis, with appropriate uncertainty quantification
+* Correlate a paleo timeseries to a climate field
+* Correlate two time-uncertain timeseries
+* Compare a record to climate simulations and reanalysis datasets
+* Generate publication-quality graphics
+* Manage complex, reproducible paleoclimate workflows
 
-1. Numbered
-2. List
+## Overview Schedule
 
-**Bold** and _Italic_ and `Code` text
+The hackathon will take place on Zoom. A tentative schedule available [here](https://isi-usc-edu.github.io/USC-AI-DS-Symposium/schedule).
 
-[Link](url) and ![Image](src)
-```
+## Participating
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Register [here](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **February 7th, 2021**.
+* The hackathon will be a combination of livestreams, live discussions, and slack conversations.
+* The hackathon is organized around practicum sessions designed to get you started with the [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).
+* See our [FAQ](https://isi-usc-edu.github.io/USC-AI-DS-Symposium/faq) for requirements.
 
-### Jekyll Themes
+## Support
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isi-usc-edu/USC-AI-DS-Symposium/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The hackathon is free to attend and is supported by the National Science Foundation grant 2002556 (P2C2 program).
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Initial funding for the development of Pyleoclim was provided by the National Science Foundation grant ICER-1541029 (EarthCube program). Supplemental funding was provided by JP Morgan Chase & Co. Any views or opinions expressed herein are solely those of the authors listed, and may differ from the views and opinions expressed by JP Morgan Chase & Co. or its affiliates. This material is not a product of the Research Department of J.P. Morgan Securities LLC. This material should not be construed as an individual recommendation of any particular client and is not intended as a recommendation of particular securities, financial instruments or strategies for a particular client. This material does not constitute a solicitation or offer in any jurisdiction.
