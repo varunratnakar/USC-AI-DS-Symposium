@@ -9,8 +9,7 @@ Tentative Schedule. Links to Zoom sessions will be emailed privately.
 | ---- | ---- | --------- | ------------------- |   
 | 10:00 | 11:00 | **Data Everywhere**  |  |
 |  |  | Session Chair: Jose Luis Ambite, Research Associate Professor of Computer Science  | images/deborah.jpg |
-|  |  | Text Analysis in Finance <br> [Gerard Hoberg](http://faculty.marshall.usc.edu/Gerard-Hoberg/) <br> Professor of Finance, Marshall School of Business
-      | images/deborah.jpg |
+|  |  | *Text Analysis in Finance* <br> [Gerard Hoberg](http://faculty.marshall.usc.edu/Gerard-Hoberg/) <br> Professor of Finance, Marshall School of Business | images/deborah.jpg |
 |  |  |  | images/.jpg |
 |  |  |  | images/.jpg |
 |  |  |  | images/.jpg |
