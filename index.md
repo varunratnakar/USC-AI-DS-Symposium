@@ -6,7 +6,7 @@ title: USC AI Futures Symposium on Artificial Intelligence and Data Science
 
 ## Symposium Dates: May 3-5, 2021
 
-<img src="images/AI-DS-Symposium-Flier.pdf" alt="AI-DS-Symposium-Flier" width="1000" />
+<img src="images/AI-DS-Symposium-Flier.jpg" alt="AI-DS-Symposium-Flier" width="1000" />
 
 
 Profound innovations at the intersection of artificial intelligence and data science are changing our lives.  These innovations are transforming how we improve our health, connect with others, sustain our environment, understand complex systems, and enrich our lives.  This symposium will present an overview of interdisciplinary research at USC in these critical areas.
