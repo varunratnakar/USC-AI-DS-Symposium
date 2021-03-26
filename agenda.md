@@ -20,21 +20,13 @@ Tentative Schedule. Links to Zoom sessions will be emailed privately.
 |  |  |  | images/.jpg |
 | 11:00 | 11:15 | **Break**  |  |
 | 11:15 | 12:00 | **Panel I: Sustainability**  |  |
-|  |  | Session Chair: [Chris Mattmann](http://irds.usc.edu/faculty/mattmann/) <br> Division Manager, Artificial Intelligence, Analytics and Innovation Development Organization, Information Technology and Solutions Directorate, NASA JPL; Director, Apache Software Foundation; Director, Information Retrieval & Data Science group, Viterbi School of Engineering; Adjunct Research Associate Professor of Computer Science, Viterbi School of Engineering  | images/mattmann.jpg |
+|  |  | Panel Chair: [Chris Mattmann](http://irds.usc.edu/faculty/mattmann/) <br> Division Manager, Artificial Intelligence, Analytics and Innovation Development Organization, Information Technology and Solutions Directorate, NASA JPL; Director, Apache Software Foundation; Director, Information Retrieval & Data Science group, Viterbi School of Engineering; Adjunct Research Associate Professor of Computer Science, Viterbi School of Engineering  | images/mattmann.jpg |
 |  |  | [Deborah Khider](https://earth.usc.edu/~khider/) <br> Research Scientist, Information Sciences Institute, Viterbi School of Engineering | images/deborah.jpg |
 |  |  | [Mahta Moghaddam](https://viterbi.usc.edu/directory/faculty/Moghaddam/Mahta) <br> Ming Hsieh Chair, Electrical and Computer Engineering-Electrophysics, Viterbi School of Engineering; Distinguished Professor, Electrical and Computer Engineering, Viterbi School of Engineering | images/moghaddam.jpg |
 |  |  | [John Wilson](https://johnwilson.usc.edu) <br> Director, Spatial Sciences Institute, Dornsife College of Letters, Arts and Sciences; Director, Wilson Map Lab; Professor of Architecture, Civil and Environmental Engineering, Computer Science, Preventive Medicine, Sociology, and Spatial Sciences, Dornsife College of Letters, Arts and Sciences | images/wilson.jpg |
 | 12:00 | 12:15 | **Teaching I: Interdisciplinary Data Science**  |  |
 |  |  | [Gary Painter](https://priceschool.usc.edu/people/gary-dean-painter/)<br> Chair, Department of Public Policy, Sol Price School of Public Policy; Director, Sol Price Center for Social Innovation, Sol Price School of Public Policy; Director, Homelessness Policy Research Institute, Sol Price School of Public Policy; Professor, Sol Price School of Public Policy | images/painter.jpg |
 |  |  | [Yolanda Gil](https://www.isi.edu/~gil/) <br> Senior Director, Information Sciences Institute, Viterbi School of Engineering; Director, Data Science Programs, Computer Science Department, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | images/gil.jpg |
-|  |  |  | images/.jpg |
-|  |  |  | images/.jpg |
-|  |  |  | images/.jpg |
-|  |  |  | images/.jpg |
-|  |  |  | images/.jpg |
-|  |  |  | images/.jpg |
-|  |  |  | images/.jpg |
-|  |  |  | images/.jpg |
 
 
 ## Day 2
@@ -64,22 +56,19 @@ Tentative Schedule. Links to Zoom sessions will be emailed privately.
 
 | Start | End | Session | Speaker |
 | ---- | ---- | --------- | ------------------- |   
-| 8:45 | 9:00 | **Session**  |  |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 9:00 | 10:00 | **Session IV: Making Decisions**  |  |
+|  |  | *Learning to Decide* <br> [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra) <br> Associate Professor of Computer Science, Viterbi School of Engineering; Co-Director, Center for AI in Society, Viterbi School of Engineering and Dworak-Peck School of Social Work | images/dilkina.jpg |
+|  |  | *Constraint Optimization* <br> [Satish Thittamaranahalli](http://www.tkskwork.org) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering; Research Assistant Professor of Computer Science, Industrial and Systems Engineering, and Physics and Astronomy, Viterbi School of Engineering | images/thittamaranahalli.jpg |
+|  |  | *Physics-Guided Machine Learning* <br> [Yan Liu](https://viterbi-web.usc.edu/~liu32/) <br> Professor of Computer Science, Viterbi School of Engineering; Director, Machine Learning Center, Viterbi School of Engineering | images/liu.jpg |
+|  |  | *Optimizing Logistics* <br> [Sven Koenig](http://idm-lab.org) <br> Professor of Computer Science, Viterbi School of Engineering | images/koenig.jpg |
+|  |  | *Fair Influencers* <br> [Phebe Vayanos](https://sites.google.com/usc.edu/phebevayanos/) <br> Assistant Professor of Industrial and Systems Engineering and Computer Science, Viterbi School of Engineering; Associate Director, Center for Artificial Intelligence in Society, Viterbi School of Engineering | images/vayanos.jpg |
+| 10:00 | 10:15 | **Break**  |  |
+| 10:15 | 11:00 | **Invited Talk II: [Regina Barzilay](https://www.regina.csail.mit.edu), MIT** <br> Professor of AI and Health, Electrical Engineering & Computer Science, MIT; Member, Computer Science and Artificial Intelligence Laboratory, MIT; AI Faculty Lead, Jameel Clinic, MIT Center for Machine Learning in Health | images/barzilay.jpg |
+| 11:00 | 11:15 | **Break**  |  |
+| 11:15 | 12:00 | **Panel II: Health**  |  |
+|  |  | Panel Chair: [Greg Ver Steeg](https://www.isi.edu/people/gregv/) <br> Research Associate Professor, Information Sciences Institute, Viterbi School of Engineering | images/versteeg.jpg |
+|  |  | [Neda Jahanshad](https://keck.usc.edu/faculty-search/neda-jahanshad/) <br> Associate Professor of Neurology, Keck School of Medicine | images/jahanshad.jpg |
+|  |  | [Peter Kuhn](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1057916) <br> Dean’s Professor of Biological Sciences, Dornsife College of Letters, Arts and Sciences; Professor of Medicine, Biomedical Engineering, Aerospace & Mechanical Engineering and Urology, Dornsife College of Letters, Arts and Sciences | images/kuhn.jpg |
+|  |  | [Daniella Meeker](https://keck.usc.edu/faculty-search/daniella-meeker/) <br> Director of Clinical Research Informatics, Keck School of Medicine; Assistant Professor of Preventive Medicine, Keck School of Medicine | images/meeker.jpg |
+| 12:00 | 12:15 | **Closing Remarks**  |  |
 
