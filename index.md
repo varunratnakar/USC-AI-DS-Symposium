@@ -14,11 +14,11 @@ This event is part of the USC AI Futures Symposium Series. A prior event was hel
 
 ## Agenda
 
-A preliminary agenda is available [here](https://isi-usc-edu.github.io/USC-AI-DS-Symposium/agenda).
+A preliminary agenda is available [here](agenda).
 
 ## Attending
 
-Please register [here](https://isi-usc-edu.github.io/USC-AI-DS-Symposium/register).
+Please register [here](register).
 
 ## Questions?
 
