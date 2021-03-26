@@ -19,3 +19,11 @@ A preliminary agenda is available [here](https://isi-usc-edu.github.io/USC-AI-DS
 ## Attending
 
 Please register [here](https://isi-usc-edu.github.io/USC-AI-DS-Symposium/register).
+
+## Questions?
+
+Please email any questions to **ai.isi.usc.edu@gmail.com**.
+
+## Subscribe
+
+Subscribe to our [USC AI Futures mailing list](https://mailman.isi.edu/mailman/listinfo/usc-ai-futures-events) to receive information about this and future events.
