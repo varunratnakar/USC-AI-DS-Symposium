@@ -1,4 +1,4 @@
-Tentative Schedule. Links to Zoom sessions will be emailed privately.
+Note: links to Zoom sessions will be emailed privately after [registration](https://usc.zoom.us/webinar/register/WN_V-mMUlHGQMWnkecKyPUQWA).
 
 ### All times are in PST (Los Angeles time)
 
