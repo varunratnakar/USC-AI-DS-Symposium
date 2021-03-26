@@ -7,7 +7,7 @@ Tentative Schedule. Links to Zoom sessions will be emailed privately.
 | Start | End | Session | Speaker |
 | ---- | ---- | --------- | ------------------- |   
 | 8:45 | 9:00 | **Welcome and Opening Remarks**  |  |
-| 9:00 | 9:45 | **Invited Talk I: [Jeannette Wing](https://www.cs.columbia.edu/~wing/), Columbia University** <br> Professor of Computer Science, The Fu Foundation School of Engineering and Applied Science, Columbia University; Avanessians Director, Data Science Institute, Columbia University | images/wing.jpg |
+| 9:00 | 9:45 | **Invited Talk I: [Jeannette Wing](https://www.cs.columbia.edu/~wing/), Columbia University** <br> Professor of Computer Science, The Fu Foundation School of Engineering and Applied Science; Avanessians Director, Data Science Institute | images/wing.jpg |
 | 9:45 | 10:00 | **Break**  |  |
 | 10:00 | 11:00 | **Session I: Data Everywhere**  |  |
 |  |  | Session Chair: [Jose Luis Ambite](https://www.isi.edu/~ambite/), Research Associate Professor of Computer Science, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering  | images/ambite.jpg |
