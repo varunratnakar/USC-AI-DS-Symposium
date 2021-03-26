@@ -16,7 +16,6 @@ Note: links to Zoom sessions will be emailed privately after [registration](http
 |  |  | *New Eyes on Our Cities* <br> [Seon Kim](https://sites.google.com/view/skim-home/home) <br> Research Scientist, Integrated Media Systems Center, Viterbi School of Engineering | <img src="images/Kim.jpg" width="100" /> |
 |  |  | *Spatial Data for Transportation* <br> [Yao-Yi Chiang](https://yaoyichi.github.io) <br> Associate Professor (Research), Spatial Sciences Institute, Dornsife College of Letters, Arts and Sciences | <img src="images/Chiang.jpg" width="100" /> |
 |  |  | *Discrimination in Ad Delivery* <br> [Aleksandra Korolova](https://www.korolova.com) <br> Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/Korolova.jpg" width="100" /> |
-|  |  |  | images/.jpg |
 | 11:00 | 11:15 | **Break**  |  |
 | 11:15 | 12:00 | **Panel I: Sustainability**  |  |
 |  |  | Panel Chair: [Chris Mattmann](http://irds.usc.edu/faculty/mattmann/) <br> Division Manager, Artificial Intelligence, Analytics and Innovation Development Organization, Information Technology and Solutions Directorate, NASA JPL; Director, Apache Software Foundation; Director, Information Retrieval & Data Science group, Viterbi School of Engineering; Adjunct Research Associate Professor of Computer Science, Viterbi School of Engineering  | <img src="images/Mattmann.jpg" width="100" /> |
