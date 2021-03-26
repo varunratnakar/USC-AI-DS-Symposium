@@ -7,17 +7,17 @@ Tentative Schedule. Links to Zoom sessions will be emailed privately.
 
 | Start | End | Session | Speaker |
 | ---- | ---- | --------- | ------------------- |   
-| 10:00 | 11:00 | Data Everywhere  |  |
+| 10:00 | 11:00 | **Data Everywhere**  |  |
 |  |  | Session Chair: Jose Luis Ambite, Research Associate Professor of Computer Science  | images/deborah.jpg |
-|09:15|09:45| Linked Paleo Data | N. McKay|
-|09:45|10:15| Pyleoclim overview| D. Khider, F. Zhu|
-|10:30|11:00| AutoTS tutorial   | D. Khider|
-|11:00|11:45| Hackathon roadmap | J. Emile-Geay |
-|12:00|13:00| Lunch Break       |          |
-|13:00|16:00| Self-guided practicums| Teams |
-|16:00|16:30| Social Hour       | (optional)
+|  |  | Text Analysis in Finance <br> [Gerard Hoberg](http://faculty.marshall.usc.edu/Gerard-Hoberg/) <br> Professor of Finance, Marshall School of Business
+      | images/deborah.jpg |
+|  |  |  | images/.jpg |
+|  |  |  | images/.jpg |
+|  |  |  | images/.jpg |
+|  |  |  | images/.jpg |
 
-### Day 2
+
+## Day 2
 
 | Start | End | Session | Speaker |
 | ---- | ---- | --------- | ------------------- |   
