@@ -11,7 +11,7 @@ Tentative Schedule. Links to Zoom sessions will be emailed privately.
 | 9:45 | 10:00 | **Break**  |  |
 | 10:00 | 11:00 | **Session I: Data Everywhere**  |  |
 |  |  | Session Chair: [Jose Luis Ambite](https://www.isi.edu/~ambite/), Research Associate Professor of Computer Science, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering  | images/ambite.jpg |
-|  |  | ```diff <br> - *Text Analysis in Finance* <br> [Gerard Hoberg](http://faculty.marshall.usc.edu/Gerard-Hoberg/) <br> Professor of Finance, Marshall School of Business | images/hoberg.jpg |
+|  |  | *Text Analysis in Finance* [Gerard Hoberg](http://faculty.marshall.usc.edu/Gerard-Hoberg/) <br> Professor of Finance, Marshall School of Business | images/hoberg.jpg |
 |  |  | *Image Analysis in Neuroscience* <br> [Paul Thompson](http://users.loni.usc.edu/~thompson/thompson.html) <br> Professor of Ophthalmology, Neurology, Psychiatry and the Behavioral Sciences, Radiology, Psychiatry, and Engineering, Keck School of Medicine <br> Associate Director, USC Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine | images/thompson.jpg |
 |  |  | *New Eyes on Our Cities* <br> [Seon Kim](https://sites.google.com/view/skim-home/home) <br> Research Scientist, Integrated Media Systems Center, Viterbi School of Engineering | images/kim.jpg |
 |  |  | *Spatial Data for Transportation* <br> [Yao-Yi Chiang](https://yaoyichi.github.io) <br> Associate Professor (Research), Spatial Sciences Institute, Dornsife College of Letters, Arts and Sciences | images/chiang.jpg |
